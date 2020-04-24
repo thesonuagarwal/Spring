@@ -1,0 +1,11 @@
+spring_mvc_base
+===============
+
+Base project used for my Pluralsight Spring JPA and Spring Security courses among others.
+
+http://pluralsight.com/training/Courses/TableOfContents/maven-fundamentals
+
+http://pluralsight.com/training/Courses/TableOfContents/springmvc-intro
+
+RUNS ON PORT 8060,8061,8062
+
